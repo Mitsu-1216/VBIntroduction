@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0BA649B7-21E0-4515-8402-DF3596C0FF61}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>VB_instruction.Module1</StartupObject>
+    <StartupObject>VB_instruction.Module2</StartupObject>
     <RootNamespace>VB_instruction</RootNamespace>
     <AssemblyName>VB_instruction</AssemblyName>
     <FileAlignment>512</FileAlignment>
