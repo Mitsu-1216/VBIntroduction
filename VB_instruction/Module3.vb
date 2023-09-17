@@ -4,6 +4,10 @@ Module Module3
 
     'コメント
 
+    ''' <summary>
+    ''' ドキュメントコメント
+    ''' </summary>
+
     Sub Main()
         Dim I As Integer
         Dim J As Integer
